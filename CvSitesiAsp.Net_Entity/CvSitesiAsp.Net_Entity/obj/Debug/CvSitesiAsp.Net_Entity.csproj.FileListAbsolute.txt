@@ -1,0 +1,164 @@
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\CvSitesiAsp.Net_Entity.dll.config
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\CvSitesiAsp.Net_Entity.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\CvSitesiAsp.Net_Entity.pdb
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\csc.exe
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\csc.exe.config
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\csc.rsp
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\csi.exe
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\csi.exe.config
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\csi.rsp
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.Managed.Core.targets
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.AppContext.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Collections.Immutable.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Console.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Globalization.Calendars.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.IO.Compression.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.IO.FileSystem.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Net.Http.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Net.Sockets.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Reflection.Metadata.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.ValueTuple.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Xml.XPath.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\vbc.exe
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\vbc.exe.config
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\vbc.rsp
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\VBCSCompiler.exe
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\VBCSCompiler.exe.config
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\obj\Debug\CvSitesiAsp.Net_Entity.csproj.AssemblyReference.cache
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\obj\Debug\CvSitesiAsp.Net_Entity.csproj.CoreCompileInputs.cache
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\obj\Debug\CvSitesiAsp.Net_Entity.csproj.CopyComplete
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\obj\Debug\CvSitesiAsp.Net_Entity.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\obj\Debug\CvSitesiAsp.Net_Entity.pdb
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\EntityFramework.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\EntityFramework.SqlServer.dll
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\EntityFramework.xml
+C:\C#\Çalışmalar\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\CvSitesiAsp.Net_Entity.dll.config
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\CvSitesiAsp.Net_Entity.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\CvSitesiAsp.Net_Entity.pdb
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\EntityFramework.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\EntityFramework.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\obj\Debug\CvSitesiAsp.Net_Entity.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\obj\Debug\CvSitesiAsp.Net_Entity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\obj\Debug\CvSitesiAsp.Net_Entity.csproj.CopyComplete
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\obj\Debug\CvSitesiAsp.Net_Entity.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\obj\Debug\CvSitesiAsp.Net_Entity.pdb
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\Azure.Core.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\Google.Protobuf.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\MySql.Data.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Buffers.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Memory.Data.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Memory.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Text.Json.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.ValueTuple.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\ZstdNet.dll
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\Azure.Core.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\Google.Protobuf.pdb
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\Google.Protobuf.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\MySql.Data.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Buffers.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Memory.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Memory.Data.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Text.Json.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Yazılım Projeler\ASP.net Proje\CvSitesiAsp.Net_Entity\CvSitesiAsp.Net_Entity\bin\System.ValueTuple.xml
